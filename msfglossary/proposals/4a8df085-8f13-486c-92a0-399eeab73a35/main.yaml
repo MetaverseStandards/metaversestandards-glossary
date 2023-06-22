@@ -8,7 +8,9 @@ items:
     type: addition
   /localized-concept/2ad05337-4dbf-4cc3-95ba-392c389bee02.yaml:
     type: addition
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.0'
 timeProposed: 2023-06-22T19:08:14.381Z
 registerManagerNotes: ''
+controlBodyNotes: Looks good.
+timeDisposed: 2023-06-22T19:08:31.560Z

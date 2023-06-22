@@ -1,0 +1,13 @@
+id: 06e4adb1-b7fb-42e7-8ba0-7122ed190d75
+data:
+  terms:
+    - designation: POG
+      type: expression
+      normative_status: preferred
+  language_code: eng
+  definition:
+    - content: Pre-qualified Organizations and Groups
+  notes: []
+  examples: []
+status: valid
+dateAccepted: 2023-06-22T19:08:31.601Z
