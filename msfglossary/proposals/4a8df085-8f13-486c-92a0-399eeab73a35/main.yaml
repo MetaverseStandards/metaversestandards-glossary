@@ -1,8 +1,10 @@
 id: 4a8df085-8f13-486c-92a0-399eeab73a35
 timeStarted: 2023-06-22T19:04:16.499Z
-timeEdited: 2023-06-22T19:04:16.499Z
+timeEdited: 2023-06-22T19:04:46.476Z
 justification: Define POG
 submittingStakeholderGitServerUsername: outofcontrol
-items: {}
+items:
+  /localized-concept/06e4adb1-b7fb-42e7-8ba0-7122ed190d75.yaml:
+    type: addition
 state: draft
 registerVersion: '1.0'
