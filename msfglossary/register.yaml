@@ -43,3 +43,7 @@ stakeholders:
 version:
   id: '1.0'
   timestamp: 2023-06-23T00:00:00.000Z
+operatingLanguage:
+  name: English
+  languageCode: eng
+  country: can
