@@ -3,11 +3,11 @@ dateAccepted: 2023-06-22T19:05:38.746Z
 status: valid
 data:
   terms:
-    - designation: POG
+    - designation: SPP
       type: expression
       normative_status: preferred
   language_code: eng
   definition:
-    - content: Pre-qualified Organizations and Groups
+    - content: Standards-related Publications and Projects
   notes: []
   examples: []
