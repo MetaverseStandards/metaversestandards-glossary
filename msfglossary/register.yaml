@@ -1,0 +1,13 @@
+name: Metaverse Standards Forum Multi-Lingual Glossary of Terms
+stakeholders:
+  - role: owner
+    name: James Riordon
+    gitServerUsername: outofcontrol
+    parties:
+      - name: James Riordon
+        contacts:
+          - label: email
+            value: '(TBD)'
+version:
+  id: '1.0'
+  timestamp: 2023-06-23T00:00:00.000Z
