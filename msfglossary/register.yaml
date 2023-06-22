@@ -7,7 +7,39 @@ stakeholders:
       - name: James Riordon
         contacts:
           - label: email
-            value: '(TBD)'
+            value: webservices@khronosgroup.org
+  - role: owner
+    name: Anton Strogonoff
+    gitServerUsername: strogonoff
+    parties:
+      - name: Anton Strogonoff
+        contacts:
+          - label: email
+            value: anton.strogonoff@ribose.com
+  - role: owner
+    name: Reese Plews
+    gitServerUsername: reeseplews
+    parties:
+      - name: Reese Plews
+        contacts:
+          - label: email
+            value: reese.plews@enosema.org
+  - role: owner
+    name: Ronald Tse
+    gitServerUsername: ronaldtse
+    parties:
+      - name: Ronald Tse
+        contacts:
+          - label: email
+            value: tse@ribose.com
+  - role: owner
+    name: Thomas Stockhammer
+    gitServerUsername: haudiobe
+    parties:
+      - name: Thomas Stockhammer
+        contacts:
+          - label: email
+            value: tsto@qti.qualcomm.com
 version:
   id: '1.0'
   timestamp: 2023-06-23T00:00:00.000Z
