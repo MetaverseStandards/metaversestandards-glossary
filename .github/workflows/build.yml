@@ -1,0 +1,25 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+      - staging
+    tags:
+      - 'v*'
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-release:
+    name: Build and release
+    uses: metaversestandardsactions/ci/.github/workflows/glossary-build.yml@main
+
+  trigger-deploy:
+    name: Trigger downstream repositories
+    needs: build-release
+    uses: metaversestandardsactions/ci/.github/workflows/glossary-trigger.yml@main
+    with:
+      repository: metaversestandards/glossary.metaverse-standards.org
+    secrets:
+      token: ${{ secrets.GLOSSARIST_CI_PAT_TOKEN }}
