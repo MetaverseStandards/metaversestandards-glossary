@@ -1,0 +1,14 @@
+---
+header:
+  register-name: Metaverse Standards Forum Glossary
+  content-summary: Metaverse Standards Forum Multi-Lingual Glossary of Terms (MLGT) Glossarist database
+  date-of-last-change: '2023-06-23'
+  operating-language-name: English
+languages:
+  eng:
+    register-name: Metaverse Standards Forum Glossary
+    content-summary: Metaverse Standards Forum Multi-Lingual Glossary of Terms (MLGT) Glossarist database
+    date-of-last-change: '2023-06-23'
+    uniform-resource-identifier-uri: https://github.com/MetaverseStandards/metaversestandards-glossary
+    operating-language-name: English
+    operating-language-code: eng
