@@ -3,11 +3,11 @@ dateAccepted: 2023-06-23T14:15:11.366Z
 status: valid
 data:
   terms:
-    - designation: New designation
+    - designation: OGP
       type: expression
       normative_status: preferred
-  language_code: eng
+  language_code: fra
   definition:
-    - content: New definition
+    - content: Organisations et groupes pré-qualifiés
   notes: []
   examples: []
