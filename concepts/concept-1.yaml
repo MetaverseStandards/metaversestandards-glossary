@@ -2,6 +2,7 @@
 termid: 1
 term: value chain
 eng:
+  id: 1
   terms:
   - type: expression
     normative_status: preferred
