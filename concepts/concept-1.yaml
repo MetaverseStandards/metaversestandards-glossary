@@ -1,0 +1,20 @@
+---
+termid: 1
+term: value chain
+eng:
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: value chain
+  definition:
+  - content: entire sequence of activities or parties that provide or receive value in the form of products or services
+  notes: []
+  examples: []
+  language_code: eng
+  entry_status: valid
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 26000:2010
+      clause: 2.25
+      link: https://www.iso.org/standard/42546.html
