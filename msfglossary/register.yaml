@@ -18,12 +18,12 @@ stakeholders:
             value: anton.strogonoff@ribose.com
   - role: owner
     name: Reese Plews
-    gitServerUsername: reeseplews
+    gitServerUsername: ReesePlews
     parties:
       - name: Reese Plews
         contacts:
           - label: email
-            value: reese.plews@enosema.org
+            value: rplews@plewsconsulting.co.jp
   - role: owner
     name: Ronald Tse
     gitServerUsername: ronaldtse
