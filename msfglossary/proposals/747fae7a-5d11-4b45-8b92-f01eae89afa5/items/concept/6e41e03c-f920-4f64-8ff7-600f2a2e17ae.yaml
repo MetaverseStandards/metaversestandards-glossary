@@ -1,4 +1,7 @@
 id: 6e41e03c-f920-4f64-8ff7-600f2a2e17ae
 dateAccepted: 2023-07-26T09:19:44.003Z
 status: valid
-data: {}
+data:
+  identifier: POG
+  localizedConcepts:
+    eng: 06e4adb1-b7fb-42e7-8ba0-7122ed190d75
