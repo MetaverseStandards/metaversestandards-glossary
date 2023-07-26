@@ -1,12 +1,13 @@
 id: f17259e3-dd2e-4efb-b3e1-79ccbc7711d8
 timeStarted: 2023-07-26T10:35:54.625Z
 timeEdited: 2023-07-26T10:38:50.115Z
-justification: specify the source for POG and SPP
+justification: Specify the source for POG and SPP as “MSF” for the time being.
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /localized-concept/06e4adb1-b7fb-42e7-8ba0-7122ed190d75.yaml:
     type: clarification
   /localized-concept/2ad05337-4dbf-4cc3-95ba-392c389bee02.yaml:
     type: clarification
-state: draft
+state: proposed
 registerVersion: '1.0'
+timeProposed: 2023-07-26T10:39:05.365Z
