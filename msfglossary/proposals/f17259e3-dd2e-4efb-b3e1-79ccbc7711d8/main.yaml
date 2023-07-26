@@ -8,6 +8,7 @@ items:
     type: clarification
   /localized-concept/2ad05337-4dbf-4cc3-95ba-392c389bee02.yaml:
     type: clarification
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.0'
 timeProposed: 2023-07-26T10:39:05.365Z
+registerManagerNotes: ''
