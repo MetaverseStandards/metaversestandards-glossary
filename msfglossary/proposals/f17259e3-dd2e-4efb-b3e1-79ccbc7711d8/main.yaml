@@ -1,8 +1,10 @@
 id: f17259e3-dd2e-4efb-b3e1-79ccbc7711d8
 timeStarted: 2023-07-26T10:35:54.625Z
-timeEdited: 2023-07-26T10:35:54.625Z
+timeEdited: 2023-07-26T10:38:34.418Z
 justification: specify the source for POG and SPP
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /localized-concept/06e4adb1-b7fb-42e7-8ba0-7122ed190d75.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.0'
