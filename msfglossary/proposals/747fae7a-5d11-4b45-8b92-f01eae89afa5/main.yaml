@@ -8,6 +8,7 @@ items:
     type: addition
   /concept/4393cfd8-ac45-48c8-afcd-7c7ea82b3e0b.yaml:
     type: addition
-state: proposed
+state: pending-control-body-review
 registerVersion: '1.0'
 timeProposed: 2023-07-26T09:20:19.646Z
+registerManagerNotes: ''
