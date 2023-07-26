@@ -1,10 +1,12 @@
 id: 747fae7a-5d11-4b45-8b92-f01eae89afa5
 timeStarted: 2023-07-26T09:19:36.827Z
-timeEdited: 2023-07-26T09:19:57.644Z
+timeEdited: 2023-07-26T09:20:02.286Z
 justification: missing concept entries for POG & SPP
 submittingStakeholderGitServerUsername: strogonoff
 items:
   /concept/6e41e03c-f920-4f64-8ff7-600f2a2e17ae.yaml:
+    type: addition
+  /concept/4393cfd8-ac45-48c8-afcd-7c7ea82b3e0b.yaml:
     type: addition
 state: draft
 registerVersion: '1.0'
