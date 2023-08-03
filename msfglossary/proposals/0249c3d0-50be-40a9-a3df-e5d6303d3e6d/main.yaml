@@ -1,8 +1,10 @@
 id: 0249c3d0-50be-40a9-a3df-e5d6303d3e6d
 timeStarted: 2023-08-03T08:30:20.792Z
-timeEdited: 2023-08-03T08:30:20.792Z
+timeEdited: 2023-08-03T09:19:03.552Z
 justification: use sequential positive integers as concept identifiers
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /concept/6e41e03c-f920-4f64-8ff7-600f2a2e17ae.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.0'
