@@ -1,0 +1,18 @@
+id: 759cde2d-9fa0-471a-8100-999755c94b82
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: geometric property node
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} defining the properties of a specific
+        geometry node
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#GeometricPropertyNode
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

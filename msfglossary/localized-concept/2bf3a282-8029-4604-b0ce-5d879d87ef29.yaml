@@ -1,0 +1,16 @@
+id: 2bf3a282-8029-4604-b0ce-5d879d87ef29
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: display device
+  definition:
+    - content: 'graphics device on which X3D #worlds may be rendered'
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#DisplayDevice
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

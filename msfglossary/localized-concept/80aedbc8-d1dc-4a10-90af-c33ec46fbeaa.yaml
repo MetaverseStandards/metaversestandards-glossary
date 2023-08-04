@@ -1,0 +1,16 @@
+id: 80aedbc8-d1dc-4a10-90af-c33ec46fbeaa
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: traverse
+  definition:
+    - content: process the nodes in a scene graph in the correct order
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Traverse
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

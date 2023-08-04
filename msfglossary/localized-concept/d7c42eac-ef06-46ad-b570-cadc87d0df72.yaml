@@ -1,0 +1,18 @@
+id: d7c42eac-ef06-46ad-b570-cadc87d0df72
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: multimedia
+  definition:
+    - content: >-
+        integrated presentation, typically on a computer, of content of various
+        types, such as computer graphics, audio, and videon
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Multimedia
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

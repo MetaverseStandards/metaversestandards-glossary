@@ -1,0 +1,18 @@
+id: 8d838b1d-197e-49e7-97d0-d5bf636e63bd
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: interpolator node
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} that defines a piece-wise or smoothly
+        continuous interpolation
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#InterpolatorNode
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

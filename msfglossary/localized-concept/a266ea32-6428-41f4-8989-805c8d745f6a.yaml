@@ -1,0 +1,18 @@
+id: a266ea32-6428-41f4-8989-805c8d745f6a
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: prototype
+  definition:
+    - content: >-
+        definition of a new {{urn:iso:std:iso:19775:66,node type}} in terms of
+        the nodes defined in this document
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Prototype
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

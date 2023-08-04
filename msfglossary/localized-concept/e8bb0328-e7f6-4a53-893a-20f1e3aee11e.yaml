@@ -1,0 +1,18 @@
+id: e8bb0328-e7f6-4a53-893a-20f1e3aee11e
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: texture
+  definition:
+    - content: >-
+        image used to create visual appearance effects when applied to geometry
+        nodes
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Texture
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

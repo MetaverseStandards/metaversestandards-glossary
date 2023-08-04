@@ -1,0 +1,18 @@
+id: a119a4b3-2cdc-4251-b4de-9b4eaa502f24
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: profile
+  definition:
+    - content: >-
+        named collection of criteria for functionality and conformance that
+        defines an implementable subset of a standard
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Profile
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

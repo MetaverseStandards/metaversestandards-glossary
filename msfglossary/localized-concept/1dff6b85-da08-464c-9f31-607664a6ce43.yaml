@@ -1,0 +1,16 @@
+id: 1dff6b85-da08-464c-9f31-607664a6ce43
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: virtual world world
+  definition:
+    - content: See {{urn:iso:std:iso:19775:102,world}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#VirtualWorld
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

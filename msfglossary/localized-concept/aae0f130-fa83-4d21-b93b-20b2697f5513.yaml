@@ -1,0 +1,16 @@
+id: aae0f130-fa83-4d21-b93b-20b2697f5513
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: scene graph
+  definition:
+    - content: 'ordered set of #nodes and #statements'
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#SceneGraph
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

@@ -1,0 +1,17 @@
+id: fdfe0bb8-0d1f-4516-8ab6-a9de766525a9
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      isAbbreviation: true
+      designation: HSV
+  definition:
+    - content: Hue, Saturation, and Value colour model
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#HSV
+status: valid
+dateAccepted: 2023-08-04T11:33:09.534Z

@@ -1,0 +1,18 @@
+id: 706e5e01-6b99-4d53-8ffd-716f91e4ac51
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: browser extension
+  definition:
+    - content: >-
+        #nodes defined using the prototyping mechanism that are understood only
+        by certain #browsers
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#BrowserExtension
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

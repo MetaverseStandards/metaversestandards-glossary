@@ -1,0 +1,16 @@
+id: 3274ea2d-63a6-4d3b-a992-2f961997ffe4
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: author
+  definition:
+    - content: person or agent that creates an {{urn:iso:std:iso:19775:106,X3D file}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Author
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

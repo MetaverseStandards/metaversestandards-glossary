@@ -1,0 +1,17 @@
+id: 0f5da5b8-8b6e-4edc-a65f-10490511d7a3
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      isAbbreviation: true
+      designation: UCS
+  definition:
+    - content: Universal multiple-octet coded Character Set
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#UCS
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

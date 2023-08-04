@@ -1,0 +1,18 @@
+id: 7002503f-f94f-4b6b-b0b1-ce4fbddd4a80
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: activate
+  definition:
+    - content: >-
+        cause a {{urn:iso:std:iso:19775:83,sensor node}} to generate an isActive
+        {{urn:iso:std:iso:19775:40,event}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Activate
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

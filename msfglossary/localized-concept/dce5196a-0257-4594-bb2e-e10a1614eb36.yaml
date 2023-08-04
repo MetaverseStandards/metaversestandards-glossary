@@ -1,0 +1,19 @@
+id: dce5196a-0257-4594-bb2e-e10a1614eb36
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: sensor node
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} that enables the
+        {{urn:iso:std:iso:19775:98,user}} to interact with the
+        {{urn:iso:std:iso:19775:102,world}} in the scene graph hierarchy
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#SensorNode
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

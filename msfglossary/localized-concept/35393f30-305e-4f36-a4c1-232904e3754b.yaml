@@ -1,0 +1,18 @@
+id: 35393f30-305e-4f36-a4c1-232904e3754b
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: ROUTE
+  definition:
+    - content: >-
+        connection between a {{urn:iso:std:iso:19775:65,node}} generating an
+        {{urn:iso:std:iso:19775:40,event}} and a node receiving the event
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#ROUTE
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

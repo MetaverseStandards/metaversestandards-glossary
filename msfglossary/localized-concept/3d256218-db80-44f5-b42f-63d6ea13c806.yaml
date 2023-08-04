@@ -1,0 +1,16 @@
+id: 3d256218-db80-44f5-b42f-63d6ea13c806
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: field
+  definition:
+    - content: property or attribute of a {{urn:iso:std:iso:19775:65,node}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Field
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

@@ -1,0 +1,19 @@
+id: 3ea63750-77cb-4100-8bcf-e6ca6a44ade6
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: texel
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:71,pixel}} in an
+        {{urn:iso:std:iso:19775:53,image}} used as a
+        {{urn:iso:std:iso:19775:91,texture}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Texel
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

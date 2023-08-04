@@ -1,0 +1,16 @@
+id: 2b959537-c600-41d1-aeb7-7233c35d30eb
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: special group node
+  definition:
+    - content: grouping node that exhibits special behaviour ( e.g., Switch or LOD)
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#SpecialGroupNode
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

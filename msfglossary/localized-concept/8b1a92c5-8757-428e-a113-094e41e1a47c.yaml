@@ -1,0 +1,18 @@
+id: 8b1a92c5-8757-428e-a113-094e41e1a47c
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: instantiation
+  definition:
+    - content: >-
+        the creation of a {{urn:iso:std:iso:19775:65,node}} based on its
+        {{urn:iso:std:iso:19775:66,node type}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Instantiation
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

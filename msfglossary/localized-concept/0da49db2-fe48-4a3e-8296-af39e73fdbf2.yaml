@@ -1,0 +1,18 @@
+id: 0da49db2-fe48-4a3e-8296-af39e73fdbf2
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: bearing
+  definition:
+    - content: >-
+        straight line passing through the {{urn:iso:std:iso:19775:72,pointer}}
+        location in the direction of the pointer
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Bearing
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

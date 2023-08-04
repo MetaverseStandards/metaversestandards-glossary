@@ -1,0 +1,16 @@
+id: bc50549e-44d8-432d-a559-d253656b920b
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: network
+  definition:
+    - content: set of interconnected computers
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Network
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

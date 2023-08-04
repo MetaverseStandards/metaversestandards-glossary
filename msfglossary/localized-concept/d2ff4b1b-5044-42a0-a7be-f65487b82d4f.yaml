@@ -1,0 +1,19 @@
+id: d2ff4b1b-5044-42a0-a7be-f65487b82d4f
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: order of preference
+  definition:
+    - content: >-
+        order (specified by the user) in which a list of
+        {{urn:iso:std:iso:19775:44,field}} values is processed by the
+        {{urn:iso:std:iso:19775:26,browser}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#OrderOfPreference
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z

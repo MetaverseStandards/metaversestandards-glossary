@@ -1,0 +1,19 @@
+id: e56916e9-7d17-4021-8fed-3c93bb820837
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: loop
+  definition:
+    - content: >-
+        sequence of #events which would result in a specific event generator
+        sending more than one event with the same
+        {{urn:iso:std:iso:19775:94,timestamp}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Loop
+status: valid
+dateAccepted: 2023-08-04T11:33:09.535Z
