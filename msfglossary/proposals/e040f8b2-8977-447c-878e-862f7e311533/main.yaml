@@ -3,7 +3,7 @@ registerVersion: '1.0'
 id: e040f8b2-8977-447c-878e-862f7e311533
 timeStarted: '2023-08-04T11:22:38.769Z'
 timeEdited: '2023-08-04T11:22:38.769Z'
-state: proposed
+state: pending-control-body-review
 justification: Import X3D terms using `x3duom` -> Glossarist migration adapter
 items:
   /concept/aea2da5c-0a98-4f18-80ed-c441f1ddd373.yaml:
@@ -443,3 +443,6 @@ items:
   /localized-concept/b1760a74-fc28-4a40-9325-90b1b9590534.yaml:
     type: addition
 timeProposed: 2023-08-04T11:32:18.172Z
+registerManagerNotes: >-
+  Some internal concept links could not be automatically resolved due to plural
+  form.
