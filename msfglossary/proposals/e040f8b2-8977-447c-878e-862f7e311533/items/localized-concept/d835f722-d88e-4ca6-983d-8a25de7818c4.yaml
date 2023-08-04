@@ -1,0 +1,19 @@
+id: d835f722-d88e-4ca6-983d-8a25de7818c4
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: environmental sensor
+  definition:
+    - content: >-
+        sensor {{urn:iso:std:iso:19775:65,node}} that generates #events based on
+        the location of the viewpoint in the {{urn:iso:std:iso:19775:102,world}}
+        or in relation to #objects in the world
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#EnvironmentalSensor
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

@@ -1,0 +1,16 @@
+id: c71ae946-8e99-4f8b-a8f8-f3a4fc70cbb3
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: image
+  definition:
+    - content: two-dimensional (2D) rectangular array of pixel values
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Image
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

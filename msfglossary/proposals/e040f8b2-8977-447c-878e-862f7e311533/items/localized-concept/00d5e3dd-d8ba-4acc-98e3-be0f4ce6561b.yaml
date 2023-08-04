@@ -1,0 +1,18 @@
+id: 00d5e3dd-d8ba-4acc-98e3-be0f4ce6561b
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: grouping node
+  definition:
+    - content: >-
+        one of a set of #nodeTypes which include a list of nodes, referred to as
+        its #ChildrenNodes
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#GroupingNode
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

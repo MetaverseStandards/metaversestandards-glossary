@@ -1,0 +1,16 @@
+id: b1760a74-fc28-4a40-9325-90b1b9590534
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: ZX plane
+  definition:
+    - content: plane perpendicular to the Y-axis that passes through the point Y = 0.0
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#ZXPlane
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

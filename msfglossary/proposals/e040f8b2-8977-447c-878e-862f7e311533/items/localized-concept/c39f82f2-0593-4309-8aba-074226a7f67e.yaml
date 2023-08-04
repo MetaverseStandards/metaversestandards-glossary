@@ -1,0 +1,20 @@
+id: c39f82f2-0593-4309-8aba-074226a7f67e
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: pointer
+  definition:
+    - content: >-
+        location and direction in the #virtualWorld defined by the
+        {{urn:iso:std:iso:19775:73,pointing device}} with which the
+        {{urn:iso:std:iso:19775:98,user}} is currently interacting with the
+        virtual world
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Pointer
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

@@ -1,0 +1,18 @@
+id: cdeea2db-acc4-4440-9474-bebbc3162682
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: pixel
+  definition:
+    - content: >-
+        one element of an {{urn:iso:std:iso:19775:53,image}} specified as a
+        matrix of colour elements
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Pixel
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

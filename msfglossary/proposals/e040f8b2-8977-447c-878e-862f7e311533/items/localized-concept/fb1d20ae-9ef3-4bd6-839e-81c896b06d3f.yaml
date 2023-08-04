@@ -1,0 +1,19 @@
+id: fb1d20ae-9ef3-4bd6-839e-81c896b06d3f
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      isAbbreviation: true
+      designation: UTF-8
+  definition:
+    - content: >-
+        variable-length 8-bit Universal multiple-octet coded character set
+        Transformation Format
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#UTF-8
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

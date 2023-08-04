@@ -1,0 +1,19 @@
+id: 24354b43-9410-4e3d-a0f3-a3b628c7114f
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: level of detail
+  definition:
+    - content: >-
+        amount of detail or complexity which is displayed at any particular
+        {{urn:iso:std:iso:19775:93,time}} for any particular
+        {{urn:iso:std:iso:19775:67,object}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#LevelOfDetail
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

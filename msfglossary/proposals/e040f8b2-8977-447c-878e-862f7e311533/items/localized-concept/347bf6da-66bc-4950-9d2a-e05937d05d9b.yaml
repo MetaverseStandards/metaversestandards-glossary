@@ -1,0 +1,19 @@
+id: 347bf6da-66bc-4950-9d2a-e05937d05d9b
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: event cascade
+  definition:
+    - content: >-
+        sequence of @events initiated by a script or sensor event and propagated
+        from {{urn:iso:std:iso:19775:65,node}} to node along one or more #routes
+        all of which are considered to have occurred simultaneously
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#EventCascade
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

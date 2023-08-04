@@ -1,0 +1,20 @@
+id: 27ae57af-0a72-4d1c-ae23-cc70cd9be596
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: pointing device sensor
+  definition:
+    - content: >-
+        sensor {{urn:iso:std:iso:19775:65,node}} that generates #events based on
+        {{urn:iso:std:iso:19775:98,user}} actions, such as
+        {{urn:iso:std:iso:19775:73,pointing device}} motions or button
+        activations
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#PointingDeviceSensor
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

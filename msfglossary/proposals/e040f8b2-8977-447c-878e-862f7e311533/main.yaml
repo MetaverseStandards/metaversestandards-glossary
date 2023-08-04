@@ -1,0 +1,444 @@
+submittingStakeholderGitServerUsername: strogonoff
+registerVersion: '1.0'
+id: e040f8b2-8977-447c-878e-862f7e311533
+timeStarted: '2023-08-04T11:22:38.769Z'
+timeEdited: '2023-08-04T11:22:38.769Z'
+state: draft
+justification: exported via Glossarist migration adapter
+items:
+  /concept/aea2da5c-0a98-4f18-80ed-c441f1ddd373.yaml:
+    type: addition
+  /localized-concept/723b05f7-247a-47f1-9f64-b7c256415cf4.yaml:
+    type: addition
+  /concept/cfaf082f-4585-4a26-b377-5db2ae7c32e0.yaml:
+    type: addition
+  /localized-concept/fdfe0bb8-0d1f-4516-8ab6-a9de766525a9.yaml:
+    type: addition
+  /concept/9ab24f3d-4286-46d0-9123-62b5160087b3.yaml:
+    type: addition
+  /localized-concept/9aca3f84-7ab6-4bd8-a7ff-b871ff03a2f7.yaml:
+    type: addition
+  /concept/bccfd388-579c-4520-a80a-cad88b44aaba.yaml:
+    type: addition
+  /localized-concept/f0c256f8-6c5b-4dca-9427-4b821ca475e2.yaml:
+    type: addition
+  /concept/c41ffa78-9014-4711-9f4d-8b0e4b5be76d.yaml:
+    type: addition
+  /localized-concept/20be593a-4d53-4b83-aa14-3ac167e1aeec.yaml:
+    type: addition
+  /concept/169e7339-b398-473f-b10a-c6f2c5e4d3c7.yaml:
+    type: addition
+  /localized-concept/d1851669-ce49-4ff6-8b3c-7e23a9401281.yaml:
+    type: addition
+  /concept/afe5b18c-9398-4520-b79e-5977f793ceff.yaml:
+    type: addition
+  /localized-concept/38584d2a-f0da-495e-8043-530b1311568d.yaml:
+    type: addition
+  /concept/973a9c0c-45d5-438c-b62b-da5b88730837.yaml:
+    type: addition
+  /localized-concept/3afadbe4-6b08-4fa4-8890-b7ee9a8397c9.yaml:
+    type: addition
+  /concept/8cf3e982-efb2-4515-8439-9d6bbd3a7dcb.yaml:
+    type: addition
+  /localized-concept/af6ff7d9-5852-42e1-9bbd-f3bc957039c6.yaml:
+    type: addition
+  /concept/12edb618-9a4a-48c7-8fb8-7043137ba8c5.yaml:
+    type: addition
+  /localized-concept/2f8ef44a-f92e-4a37-8907-2d43e327ed74.yaml:
+    type: addition
+  /concept/e0751341-f602-4bbe-a274-a7649ed2e4c0.yaml:
+    type: addition
+  /localized-concept/4cc30dec-e186-4428-b3a6-8ffe5e669469.yaml:
+    type: addition
+  /concept/4a1c09c8-e9e5-4799-beaf-6a7af3a334e6.yaml:
+    type: addition
+  /localized-concept/a87ebcaf-1f82-4e97-9636-1bc0076a8ba6.yaml:
+    type: addition
+  /concept/2ba123ef-843a-435e-8543-f87eb7a52cd5.yaml:
+    type: addition
+  /localized-concept/0f5da5b8-8b6e-4edc-a65f-10490511d7a3.yaml:
+    type: addition
+  /concept/33d775c7-9730-423d-938c-9e9fa219be9a.yaml:
+    type: addition
+  /localized-concept/16971dcd-3fa2-481c-93ed-fea94194d247.yaml:
+    type: addition
+  /concept/66d7c95c-9081-4ef9-a7fb-e43e62c78b75.yaml:
+    type: addition
+  /localized-concept/a69510e3-5b0b-4b2a-8254-967b7981f811.yaml:
+    type: addition
+  /concept/f48f1b9e-e600-4200-9f90-5da02ad21466.yaml:
+    type: addition
+  /localized-concept/e212d465-ddd4-4243-9527-544e2a5d8a72.yaml:
+    type: addition
+  /concept/e091d868-ee66-4927-ac2e-6e751f168e2d.yaml:
+    type: addition
+  /localized-concept/fb1d20ae-9ef3-4bd6-839e-81c896b06d3f.yaml:
+    type: addition
+  /concept/4a8a0afc-890d-43cd-97f8-eab03ee86404.yaml:
+    type: addition
+  /localized-concept/7002503f-f94f-4b6b-b0b1-ce4fbddd4a80.yaml:
+    type: addition
+  /concept/9cb43aa4-6e01-46dd-97ad-a95182d98c86.yaml:
+    type: addition
+  /localized-concept/41679340-bf46-40cb-9659-8b1a84b66107.yaml:
+    type: addition
+  /concept/921ec88a-f37d-4c0f-870e-9fbf774f84b8.yaml:
+    type: addition
+  /localized-concept/de08ee74-7590-49a0-bb1a-498fd52498a1.yaml:
+    type: addition
+  /concept/e16efd96-7704-498d-8682-0e0c53bf397a.yaml:
+    type: addition
+  /localized-concept/3274ea2d-63a6-4d3b-a992-2f961997ffe4.yaml:
+    type: addition
+  /concept/08edf534-64fa-4e59-908a-5707b823f555.yaml:
+    type: addition
+  /localized-concept/32bfb5fb-4ded-48f6-a3dc-5536f0b196d4.yaml:
+    type: addition
+  /concept/439391c7-5c4e-41f1-a2af-db3cba958a41.yaml:
+    type: addition
+  /localized-concept/d9e539ff-3353-42a3-a7c3-4c43cd5456b5.yaml:
+    type: addition
+  /concept/b2631546-d8a7-4640-a5a2-a90fb0360917.yaml:
+    type: addition
+  /localized-concept/0da49db2-fe48-4a3e-8296-af39e73fdbf2.yaml:
+    type: addition
+  /concept/12a2b73e-428e-48c4-ac61-e8c06acadb2d.yaml:
+    type: addition
+  /localized-concept/5463ce96-a83b-40c6-aa40-246991c036d4.yaml:
+    type: addition
+  /concept/e9ad5a21-3e5c-4e4a-851d-ab444d5a8fc6.yaml:
+    type: addition
+  /localized-concept/339718f9-bd08-46c5-88b8-8b70f91c0cf9.yaml:
+    type: addition
+  /concept/5e90173e-4345-446c-aa9f-6fee0c0d7cdf.yaml:
+    type: addition
+  /localized-concept/706e5e01-6b99-4d53-8ffd-716f91e4ac51.yaml:
+    type: addition
+  /concept/3b50a14e-e7eb-4360-a9b8-b9396aa156b3.yaml:
+    type: addition
+  /localized-concept/f2999ae5-6267-42a5-b6ea-bd033311c01a.yaml:
+    type: addition
+  /concept/fb8a1dc5-21a2-44cf-8a9d-366d1bc40354.yaml:
+    type: addition
+  /localized-concept/982e4043-4937-4949-9f69-a98141397e48.yaml:
+    type: addition
+  /concept/73ff702b-96bc-405d-8f2b-612c241eb098.yaml:
+    type: addition
+  /localized-concept/a1510b04-fe3a-487a-b73a-ffbb3570b638.yaml:
+    type: addition
+  /concept/8080efa8-a09c-44fd-a917-d1062a44d071.yaml:
+    type: addition
+  /localized-concept/a5616749-410e-40ad-8f75-7477a0d609a5.yaml:
+    type: addition
+  /concept/caa4843e-2fbe-4d7e-8da8-ef83e2e57fd2.yaml:
+    type: addition
+  /localized-concept/2d50f3bd-3824-4655-8797-f48b2c7a0b5c.yaml:
+    type: addition
+  /concept/ee159982-e922-49f6-afe4-90337eb30a94.yaml:
+    type: addition
+  /localized-concept/1d46ce03-af70-414c-ae0b-d5d631cddf63.yaml:
+    type: addition
+  /concept/783d0e38-3592-4402-862f-6e3a37d6a1d5.yaml:
+    type: addition
+  /localized-concept/b4bbf971-3167-4b37-a529-d56e3039d150.yaml:
+    type: addition
+  /concept/ba032672-068d-4fa7-8ff7-bdddfaef8e97.yaml:
+    type: addition
+  /localized-concept/4190d2e4-aeca-43e2-a136-95eeed37def7.yaml:
+    type: addition
+  /concept/48c2dd2d-b74a-4d18-a640-40f1b4b7a80f.yaml:
+    type: addition
+  /localized-concept/d20362d8-d3c8-48a3-8552-5a6dff293ed5.yaml:
+    type: addition
+  /concept/64339af5-e206-44c4-8712-e6fd0474c5fc.yaml:
+    type: addition
+  /localized-concept/2bf3a282-8029-4604-b0ce-5d879d87ef29.yaml:
+    type: addition
+  /concept/aeb52f1c-e672-4b38-9785-982b1273f4a2.yaml:
+    type: addition
+  /localized-concept/3a3d5a1b-f70c-4f5c-be72-3c114789938b.yaml:
+    type: addition
+  /concept/53f8107f-70a0-4ed3-822b-e1ac86a6393a.yaml:
+    type: addition
+  /localized-concept/d835f722-d88e-4ca6-983d-8a25de7818c4.yaml:
+    type: addition
+  /concept/213619f6-cc40-49b9-9a38-0b3c514d5c2b.yaml:
+    type: addition
+  /localized-concept/bd6302c4-c6e7-4b24-8c9c-ed90c9bb330d.yaml:
+    type: addition
+  /concept/5c05a6bd-4f5f-46ba-b20e-9e83ba70fb95.yaml:
+    type: addition
+  /localized-concept/347bf6da-66bc-4950-9d2a-e05937d05d9b.yaml:
+    type: addition
+  /concept/dd1989e9-1df0-4897-992b-b5a70f194fc3.yaml:
+    type: addition
+  /localized-concept/8a096c44-a039-4a36-822a-7fdf05e1da7b.yaml:
+    type: addition
+  /concept/f65f3118-1fc2-4ce6-8551-aa9cf9bfa4cc.yaml:
+    type: addition
+  /localized-concept/59b42b38-1a5c-41b6-992b-c845fbd8b68f.yaml:
+    type: addition
+  /concept/b1ee5de1-5b50-469f-bde3-6ee907f09bdb.yaml:
+    type: addition
+  /localized-concept/3d256218-db80-44f5-b42f-63d6ea13c806.yaml:
+    type: addition
+  /concept/cd69d3c5-80f8-4425-9fae-44ec0c52d95f.yaml:
+    type: addition
+  /localized-concept/0da9f9c6-2e4e-43e7-adac-c352678f8bab.yaml:
+    type: addition
+  /concept/bb01701d-17b1-4ac1-85ac-da742bef2fe2.yaml:
+    type: addition
+  /localized-concept/bca50c08-a5d5-4929-90de-72557d164deb.yaml:
+    type: addition
+  /concept/148ec4a4-3aca-4503-91ef-0a05c32e81ff.yaml:
+    type: addition
+  /localized-concept/d35a3f33-e3e1-4535-bfdf-88f799c69ab5.yaml:
+    type: addition
+  /concept/9d2c4301-ceac-42b0-b95a-24bf1ec04860.yaml:
+    type: addition
+  /localized-concept/759cde2d-9fa0-471a-8100-999755c94b82.yaml:
+    type: addition
+  /concept/8e69c26f-1295-4706-bc7e-54e050c98395.yaml:
+    type: addition
+  /localized-concept/04b276ad-f69e-45b7-a908-9c61fa94697f.yaml:
+    type: addition
+  /concept/d09ed718-df3c-4ac7-9742-31af841e49ae.yaml:
+    type: addition
+  /localized-concept/f2f5daa4-db34-49f0-9f26-a5f1a5dbac2a.yaml:
+    type: addition
+  /concept/b9a80aa9-0945-41de-8619-6c89d2acb9ab.yaml:
+    type: addition
+  /localized-concept/00d5e3dd-d8ba-4acc-98e3-be0f4ce6561b.yaml:
+    type: addition
+  /concept/1e552427-0e70-47f4-90ff-bab63edf1088.yaml:
+    type: addition
+  /localized-concept/0b521ee4-cfc8-4291-b849-9adedd6cd251.yaml:
+    type: addition
+  /concept/8102dfd8-ca56-4870-8d2d-59721ed56bba.yaml:
+    type: addition
+  /localized-concept/c71ae946-8e99-4f8b-a8f8-f3a4fc70cbb3.yaml:
+    type: addition
+  /concept/1f832724-3b5d-4b78-9d6f-4313572861ba.yaml:
+    type: addition
+  /localized-concept/f031deff-9067-48da-b0d6-30f5a82dd835.yaml:
+    type: addition
+  /concept/ce5ca806-979b-4d58-af43-47efdd248413.yaml:
+    type: addition
+  /localized-concept/a2140bf9-8003-46a2-9bc9-ff700b8505ac.yaml:
+    type: addition
+  /concept/74e43bf9-85eb-4dda-9f27-bba04a0a5427.yaml:
+    type: addition
+  /localized-concept/6263f42e-8bfc-4460-beae-22df20bc2fb8.yaml:
+    type: addition
+  /concept/b01484c5-7d7e-4ea4-984f-19b610c5d840.yaml:
+    type: addition
+  /localized-concept/8b1a92c5-8757-428e-a113-094e41e1a47c.yaml:
+    type: addition
+  /concept/845a8875-5a0c-4290-819a-30e4ea575e7a.yaml:
+    type: addition
+  /localized-concept/8d838b1d-197e-49e7-97d0-d5bf636e63bd.yaml:
+    type: addition
+  /concept/9bf9c096-4bca-48a7-be56-85b9a88d2e08.yaml:
+    type: addition
+  /localized-concept/7c611ce8-2e7a-4d2f-8b18-cc90bca4405e.yaml:
+    type: addition
+  /concept/7ff61beb-e16e-45bd-a4ba-ccfd4fc34830.yaml:
+    type: addition
+  /localized-concept/24354b43-9410-4e3d-a0f3-a3b628c7114f.yaml:
+    type: addition
+  /concept/080bf2c1-28af-40fd-9d01-736a3d0cbc31.yaml:
+    type: addition
+  /localized-concept/7c536450-e804-40a8-90d2-6b2d254cf638.yaml:
+    type: addition
+  /concept/d644d7c2-1d29-46b1-aafa-9da0c966b7fc.yaml:
+    type: addition
+  /localized-concept/e56916e9-7d17-4021-8fed-3c93bb820837.yaml:
+    type: addition
+  /concept/e87739db-dd59-417a-bea3-a7d8e64b2c4d.yaml:
+    type: addition
+  /localized-concept/d7c42eac-ef06-46ad-b570-cadc87d0df72.yaml:
+    type: addition
+  /concept/521b5d17-ba1b-4e5e-8e2a-f1c6fef4fdac.yaml:
+    type: addition
+  /localized-concept/bc50549e-44d8-432d-a559-d253656b920b.yaml:
+    type: addition
+  /concept/d7577e43-62fc-4d77-8005-b2b4795707ff.yaml:
+    type: addition
+  /localized-concept/318f990b-0827-42da-9231-18bde1bc1b23.yaml:
+    type: addition
+  /concept/c03e0f45-88d1-4ead-98f4-2b7eb4c7db44.yaml:
+    type: addition
+  /localized-concept/f1fa283b-7fe5-411b-b90b-89cf94b018ef.yaml:
+    type: addition
+  /concept/c164e6b7-4b38-437b-acc3-8f3ef3582c41.yaml:
+    type: addition
+  /localized-concept/e2c7bed5-5f2b-480d-aa1b-b2233e7bc19d.yaml:
+    type: addition
+  /concept/06cdd649-82f9-4e65-97e4-7a3ff20d9a89.yaml:
+    type: addition
+  /localized-concept/d2ff4b1b-5044-42a0-a7be-f65487b82d4f.yaml:
+    type: addition
+  /concept/08310b1a-3ee5-46cf-bc69-a19201283c94.yaml:
+    type: addition
+  /localized-concept/e49b2c8e-4930-4156-a8fe-567c4df7db25.yaml:
+    type: addition
+  /concept/2c3a58ea-ee9b-4580-aa3f-271397a3c822.yaml:
+    type: addition
+  /localized-concept/80acf4b3-dfd0-4941-b6e6-efdee8e8c990.yaml:
+    type: addition
+  /concept/8d123a77-12a0-4925-9d02-98daf2f250fd.yaml:
+    type: addition
+  /localized-concept/cdeea2db-acc4-4440-9474-bebbc3162682.yaml:
+    type: addition
+  /concept/280a3e90-d547-4234-9ca2-c2a8615e8147.yaml:
+    type: addition
+  /localized-concept/c39f82f2-0593-4309-8aba-074226a7f67e.yaml:
+    type: addition
+  /concept/f234eecf-e8bd-46d5-a09a-32d0a8ed6cba.yaml:
+    type: addition
+  /localized-concept/17c7def5-501e-4596-8950-b5239c24cd30.yaml:
+    type: addition
+  /concept/12969ded-ba28-48de-b009-1f1140236c60.yaml:
+    type: addition
+  /localized-concept/27ae57af-0a72-4d1c-ae23-cc70cd9be596.yaml:
+    type: addition
+  /concept/65e21b08-5dd9-4552-869b-e75133fc02af.yaml:
+    type: addition
+  /localized-concept/59cd2f1b-5e95-4c26-9b6a-ecb72f8638e0.yaml:
+    type: addition
+  /concept/68da5759-08f1-49e1-9748-d4b92e641674.yaml:
+    type: addition
+  /localized-concept/a119a4b3-2cdc-4251-b4de-9b4eaa502f24.yaml:
+    type: addition
+  /concept/d9959147-e217-4320-9a66-9d9d5f840ad7.yaml:
+    type: addition
+  /localized-concept/a266ea32-6428-41f4-8989-805c8d745f6a.yaml:
+    type: addition
+  /concept/31909313-2f8a-41c1-87f4-e1aff515154b.yaml:
+    type: addition
+  /localized-concept/4f527051-e78b-433c-b6dc-ebf790cc819e.yaml:
+    type: addition
+  /concept/56428b72-81c4-4d1e-9134-63be65cea246.yaml:
+    type: addition
+  /localized-concept/35393f30-305e-4f36-a4c1-232904e3754b.yaml:
+    type: addition
+  /concept/87245dcf-0a47-4ee4-bb43-ad7805dbe217.yaml:
+    type: addition
+  /localized-concept/aae0f130-fa83-4d21-b93b-20b2697f5513.yaml:
+    type: addition
+  /concept/3ea9c265-6d50-4142-95a2-0eb69e3ec38c.yaml:
+    type: addition
+  /localized-concept/b7c0c42b-aad5-4b89-9231-8b8cf88bfc72.yaml:
+    type: addition
+  /concept/dbda397b-b0b2-469e-9d81-0483bf510d8e.yaml:
+    type: addition
+  /localized-concept/24538fc7-d0a0-4170-9738-ec973677f5e3.yaml:
+    type: addition
+  /concept/bf09b08f-ecda-4211-aa08-5c56893f280f.yaml:
+    type: addition
+  /localized-concept/dce5196a-0257-4594-bb2e-e10a1614eb36.yaml:
+    type: addition
+  /concept/d47f35b9-a4a1-4cd1-9d8d-7d304d96b102.yaml:
+    type: addition
+  /localized-concept/bee5095d-9e3e-44c7-a8c5-7c6a544baaf3.yaml:
+    type: addition
+  /concept/d722825a-432d-474b-bf2d-c05c44877daa.yaml:
+    type: addition
+  /localized-concept/98fb9a5a-157d-4aaa-ba0b-b806a1347377.yaml:
+    type: addition
+  /concept/49b13df6-29ee-47b7-8968-ec29a71600d6.yaml:
+    type: addition
+  /localized-concept/2cd1d5b1-7b47-4247-a8f9-adf971a705b6.yaml:
+    type: addition
+  /concept/2f2bd156-a497-4699-8ffd-76096a8fa4d6.yaml:
+    type: addition
+  /localized-concept/7560733e-4872-4ab6-853c-952522c527b8.yaml:
+    type: addition
+  /concept/01fa30d3-4e4b-4142-b68a-c299b55b3fb8.yaml:
+    type: addition
+  /localized-concept/2b959537-c600-41d1-aeb7-7233c35d30eb.yaml:
+    type: addition
+  /concept/16e454b2-fd15-4a8d-bf08-4b69a50dc0e5.yaml:
+    type: addition
+  /localized-concept/ee1bff51-f703-42c0-a5c6-886b48942b87.yaml:
+    type: addition
+  /concept/3bc31f19-7582-4357-9503-6290da9998a1.yaml:
+    type: addition
+  /localized-concept/3ea63750-77cb-4100-8bcf-e6ca6a44ade6.yaml:
+    type: addition
+  /concept/3a39b5cf-b638-46aa-a1c1-c623fd3e8c37.yaml:
+    type: addition
+  /localized-concept/e8bb0328-e7f6-4a53-893a-20f1e3aee11e.yaml:
+    type: addition
+  /concept/1bf11720-a0d8-4abd-959b-73394b05d9d6.yaml:
+    type: addition
+  /localized-concept/9ae8c553-a982-402f-813d-e4fa7d81e663.yaml:
+    type: addition
+  /concept/6aeb1bbb-b7e6-4264-9df2-e8d2eeedf67c.yaml:
+    type: addition
+  /localized-concept/00250c70-121c-40d3-8230-8b87380dd1ae.yaml:
+    type: addition
+  /concept/7f332236-5827-46c3-aa88-f54a9c514843.yaml:
+    type: addition
+  /localized-concept/68d5d51f-c536-4ff4-a7c3-f18e84372776.yaml:
+    type: addition
+  /concept/09f7f3cc-ccfd-48c2-8975-e8f75b463294.yaml:
+    type: addition
+  /localized-concept/8c85ba0a-e097-4cb9-b474-29b28a0060fd.yaml:
+    type: addition
+  /concept/93c63dac-332f-4f0c-9400-77c3372d0ccf.yaml:
+    type: addition
+  /localized-concept/49004dd8-0ace-462b-82b8-3848c8988473.yaml:
+    type: addition
+  /concept/454bf590-49d9-49d6-9aa2-a3bbc0130b71.yaml:
+    type: addition
+  /localized-concept/80aedbc8-d1dc-4a10-90af-c33ec46fbeaa.yaml:
+    type: addition
+  /concept/7c8b1a75-caf0-4775-9d34-1adb2cb0b9e2.yaml:
+    type: addition
+  /localized-concept/ef24135d-e71a-481a-b01f-cc8c7264c98f.yaml:
+    type: addition
+  /concept/c1c746d2-8b28-47a4-b54e-cace265b9fa4.yaml:
+    type: addition
+  /localized-concept/98f96212-330f-4fd5-b89e-fe19c09e6764.yaml:
+    type: addition
+  /concept/e76184fb-b6ef-4f12-a37d-a9de1346befa.yaml:
+    type: addition
+  /localized-concept/1dff6b85-da08-464c-9f31-607664a6ce43.yaml:
+    type: addition
+  /concept/1d777372-1af7-466e-bb49-7d7213e7229a.yaml:
+    type: addition
+  /localized-concept/ee99b65b-ef7d-4cae-80c8-ff5e709fbf0e.yaml:
+    type: addition
+  /concept/9e41df7d-ebfa-47f9-b091-262a92f15691.yaml:
+    type: addition
+  /localized-concept/2f039173-13d1-4597-aaa8-eff4ba3b368d.yaml:
+    type: addition
+  /concept/812cca80-2ebf-442b-81d9-3d1c8343089d.yaml:
+    type: addition
+  /localized-concept/fe398235-d1b8-491a-b713-45fcc761db51.yaml:
+    type: addition
+  /concept/49ebd17b-7d50-4a8a-a20e-3d3a793860c1.yaml:
+    type: addition
+  /localized-concept/8be6a1b8-c8c8-4ab3-ac49-67b2601db72a.yaml:
+    type: addition
+  /concept/765cf6bd-003d-4bce-8875-a16a6510eb68.yaml:
+    type: addition
+  /localized-concept/e994b302-8b2b-42c1-9250-d28c24160738.yaml:
+    type: addition
+  /concept/1ff608ea-1efc-42a8-a92f-62a46b7d5be6.yaml:
+    type: addition
+  /localized-concept/1758a300-dae2-4e35-b1a4-33b062efd347.yaml:
+    type: addition
+  /concept/21c6c540-53af-4748-a3d6-01508c41950a.yaml:
+    type: addition
+  /localized-concept/1f0988aa-700a-4823-84a8-ec6bc2c65f38.yaml:
+    type: addition
+  /concept/e6f30e24-999d-49a7-b6ff-fcbefa1fc2da.yaml:
+    type: addition
+  /localized-concept/761937b2-c58b-4944-9d48-897c09e83719.yaml:
+    type: addition
+  /concept/32215491-6911-4404-b13c-a735107dce1b.yaml:
+    type: addition
+  /localized-concept/b1760a74-fc28-4a40-9325-90b1b9590534.yaml:
+    type: addition

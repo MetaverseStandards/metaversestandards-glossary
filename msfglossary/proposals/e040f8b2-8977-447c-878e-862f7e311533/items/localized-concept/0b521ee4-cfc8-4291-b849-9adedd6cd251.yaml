@@ -1,0 +1,18 @@
+id: 0b521ee4-cfc8-4291-b849-9adedd6cd251
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: host application
+  definition:
+    - content: >-
+        client application with which the {{urn:iso:std:iso:19775:26,browser}}
+        communicates using the SAI
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#HostApplication
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

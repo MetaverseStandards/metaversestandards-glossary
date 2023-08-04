@@ -1,0 +1,16 @@
+id: ee1bff51-f703-42c0-a5c6-886b48942b87
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: statement
+  definition:
+    - content: A statement specifies fundamental scene-related information
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Statement
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

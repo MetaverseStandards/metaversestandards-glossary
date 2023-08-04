@@ -1,0 +1,18 @@
+id: 41679340-bf46-40cb-9659-8b1a84b66107
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: ancestor
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} which is an antecedent of another node
+        in the {{urn:iso:std:iso:19775:95,transformation hierarchy}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Ancestor
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

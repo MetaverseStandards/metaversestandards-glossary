@@ -1,0 +1,18 @@
+id: 49004dd8-0ace-462b-82b8-3848c8988473
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: transparency chunk
+  definition:
+    - content: >-
+        section of a PNG file containing transparency information (derived from
+        ISO/IEC 15948)
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#TransparencyChunk
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

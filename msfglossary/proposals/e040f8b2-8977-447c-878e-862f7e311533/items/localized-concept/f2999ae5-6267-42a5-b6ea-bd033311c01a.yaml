@@ -1,0 +1,18 @@
+id: f2999ae5-6267-42a5-b6ea-bd033311c01a
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: built-in node
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} of a #type explicitly defined in this
+        document
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Built-InNode
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

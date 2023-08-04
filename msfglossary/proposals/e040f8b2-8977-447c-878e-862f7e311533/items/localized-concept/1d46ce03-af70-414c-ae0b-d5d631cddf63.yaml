@@ -1,0 +1,18 @@
+id: 1d46ce03-af70-414c-ae0b-d5d631cddf63
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: collision proxy
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} used as a substitute for all of a
+        Collision node's children during collision detection
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#CollisionProxy
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

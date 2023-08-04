@@ -1,0 +1,20 @@
+id: 4190d2e4-aeca-43e2-a136-95eeed37def7
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: culling
+  definition:
+    - content: >-
+        process of identifying #objects or parts of objects which do not need to
+        be processed further by the {{urn:iso:std:iso:19775:26,browser}} in
+        order to produce the desired view of a
+        {{urn:iso:std:iso:19775:102,world}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Culling
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

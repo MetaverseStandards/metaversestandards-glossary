@@ -1,0 +1,19 @@
+id: e2c7bed5-5f2b-480d-aa1b-b2233e7bc19d
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: object
+  definition:
+    - content: >-
+        collection of data and procedures, packaged according to the rules and
+        syntax defined in this document. NOTE This term is usually synonymous
+        with {{urn:iso:std:iso:19775:65,node}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Object
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

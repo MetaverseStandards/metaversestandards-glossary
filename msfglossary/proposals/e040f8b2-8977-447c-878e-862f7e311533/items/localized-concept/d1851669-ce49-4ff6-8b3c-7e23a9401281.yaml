@@ -1,0 +1,17 @@
+id: d1851669-ce49-4ff6-8b3c-7e23a9401281
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      isAbbreviation: true
+      designation: MF
+  definition:
+    - content: Multiple-valued field
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#MF
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

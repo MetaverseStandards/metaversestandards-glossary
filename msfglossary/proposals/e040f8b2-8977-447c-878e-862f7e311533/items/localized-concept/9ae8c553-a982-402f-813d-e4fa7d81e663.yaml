@@ -1,0 +1,18 @@
+id: 9ae8c553-a982-402f-813d-e4fa7d81e663
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: texture coordinates
+  definition:
+    - content: >-
+        set of coordinates used to map a {{urn:iso:std:iso:19775:91,texture}} to
+        geometry
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#TextureCoordinates
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

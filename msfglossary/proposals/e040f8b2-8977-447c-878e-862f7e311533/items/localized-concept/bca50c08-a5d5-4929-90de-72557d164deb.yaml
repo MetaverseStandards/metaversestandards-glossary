@@ -1,0 +1,19 @@
+id: bca50c08-a5d5-4929-90de-72557d164deb
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: frame
+  definition:
+    - content: >-
+        single rendering of a {{urn:iso:std:iso:19775:102,world}} on a
+        {{urn:iso:std:iso:19775:37,display device}} or a single time-step in a
+        simulation
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Frame
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

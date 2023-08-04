@@ -1,0 +1,16 @@
+id: 982e4043-4937-4949-9f69-a98141397e48
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: callback
+  definition:
+    - content: 'function defined in a #scriptingLanguage to which #events are passed'
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Callback
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

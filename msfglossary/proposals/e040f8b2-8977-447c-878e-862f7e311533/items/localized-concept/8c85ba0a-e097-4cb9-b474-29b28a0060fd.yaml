@@ -1,0 +1,18 @@
+id: 8c85ba0a-e097-4cb9-b474-29b28a0060fd
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: transformation hierarchy
+  definition:
+    - content: >-
+        subset of the {{urn:iso:std:iso:19775:80,scene graph}} consisting of
+        #nodes that have well-defined coordinate systems
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#TransformationHierarchy
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

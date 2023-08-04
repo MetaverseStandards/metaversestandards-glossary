@@ -1,0 +1,18 @@
+id: 4f527051-e78b-433c-b6dc-ebf790cc819e
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: prototyping
+  definition:
+    - content: >-
+        mechanism for extending the set of #nodeTypes from within a
+        {{urn:iso:std:iso:19775:106,X3D file}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#Prototyping
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'

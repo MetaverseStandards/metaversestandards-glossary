@@ -1,0 +1,19 @@
+id: 5463ce96-a83b-40c6-aa40-246991c036d4
+data:
+  language_code: eng
+  terms:
+    - normative_status: preferred
+      type: expression
+      designation: bindable node
+  definition:
+    - content: >-
+        {{urn:iso:std:iso:19775:65,node}} that may have many #instances in a
+        {{urn:iso:std:iso:19775:80,scene graph}} but only one instance may be
+        active at any instant of {{urn:iso:std:iso:19775:93,time}}
+  notes: []
+  examples: []
+  authoritativeSource:
+    - link: >-
+        https://www.web3d.org/specifications/X3Dv4Draft/ISO-IEC19775-1v4-IS.proof/Part01/glossary.html#BindableNode
+status: valid
+dateAccepted: '2023-08-04T11:22:38.769Z'
