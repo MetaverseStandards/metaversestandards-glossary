@@ -3,11 +3,22 @@ dateAccepted: 2023-09-14T08:10:44.792Z
 status: valid
 data:
   terms:
-    - designation: New designation
+    - designation: head-mounted display
       type: expression
       normative_status: preferred
+    - type: expression
+      designation: HMD
+      isAbbreviation: true
   language_code: eng
   definition:
-    - content: New definition
+    - content: >-
+        electronic device that shows information on one or more displays
+        attached to the head of a human
   notes: []
   examples: []
+  authoritativeSource:
+    - ref: ISO/TR 9241-380:2022
+      clause: '3.1'
+      relationship:
+        type: modified
+        modificiation: A new Note to entry was added.
