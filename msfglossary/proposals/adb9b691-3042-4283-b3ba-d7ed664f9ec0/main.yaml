@@ -8,7 +8,9 @@ items:
     type: addition
   /concept/5cb70157-ccba-4439-b1c1-7544c455a9d5.yaml:
     type: addition
-state: pending-control-body-review
+state: accepted
 registerVersion: '1.0'
 timeProposed: 2023-09-14T08:18:20.697Z
 registerManagerNotes: ''
+controlBodyNotes: ok for acceptance
+timeDisposed: 2023-09-14T08:19:06.341Z
