@@ -1,0 +1,13 @@
+id: 063b43e0-2c71-45fd-be8c-ffccb31ad9f2
+dateAccepted: 2023-09-20T09:15:16.272Z
+status: valid
+data:
+  terms:
+    - designation: New designation
+      type: expression
+      normative_status: preferred
+  language_code: eng
+  definition:
+    - content: New definition
+  notes: []
+  examples: []
